@@ -2,7 +2,7 @@
 
 ## Description
 
-
+For this project i am developing the back end functionality for a note take with an established front end design. Creating this application helped me gain more experience with using render to deploy applications.
 
 ## Table of Contents
 
