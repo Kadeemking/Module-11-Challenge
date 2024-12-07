@@ -1,8 +1,18 @@
-# Express.js Note Taker
+# Express.js Note Taker Application
 
 ## Description
 
-For this project i am developing the back end functionality for a note take with an established front end design. Creating this application helped me gain more experience with using render to deploy applications.
+This project required me to build the back-end functionality for a fully designed front-end note-taking application. The application allows users to create, view, and delete notes, improving productivity and organization.
+
+In this project:
+
+- I used server-side logic using Node.js and the Express.js framework to handle routing, file management, and API functionality. 
+
+- I deployed the application using Render, gaining hands-on experience with modern deployment workflows.
+
+- I used RESTful API routes to handle GET, POST, and DELETE requests for note management.
+
+This project helped me gain a deeper understanding of server-side development, deployment processes, and creating scalable, user-friendly applications.
 
 ## Table of Contents
 
@@ -13,15 +23,15 @@ For this project i am developing the back end functionality for a note take with
 
 ## Installation
 
-Use npm i to download the express Library.
+Use "npm i" to download the Express library.
 
 ## Usage
 
+To use this application just click on get started and you should be prompted to enter a new note.  Once you enter a note title and description, press the save note button and see your note appear on the side with other previous notes. 
 
+<a href="">Link To Deployed Site</a> 
 
-<a href="">How to Use</a> 
-
-![Photo of application usage](.)
+![Photo of application usage](./photos/noteTakerScreenshot.png)
 
 
 ## Credits

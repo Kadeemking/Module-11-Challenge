@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "test",
+        "text": "test",
+        "id": "1"
+    },
+    {
+        "id": "38efb2da-a76c-4f37-85aa-2d24a01af3f3",
+        "title": "spider-man is the best",
+        "text": "Best movie i have ever seen"
     }
 ]
