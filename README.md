@@ -36,9 +36,9 @@ To use this application just click on get started and you should be prompted to 
 
 ## Credits
 
-<a href=""></a> 
+<a href="https://www.npmjs.com/package/express">Express Library</a>
 
-<a href=""></a> 
+<a href="https://www.npmjs.com/package/uuid">UUID Library</a>
 
 <a href="https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba">License Page</a> 
 
